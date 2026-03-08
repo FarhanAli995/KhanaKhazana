@@ -1,6 +1,6 @@
  I'll transform your Khanakhazana project README into a professional, visually striking format that matches your GitHub profile style. Here's the polished version with bold headers, badges, emojis, and clean formatting:
 
----
+
 
 # 🍽️ **Khanakhazana** – Restaurant Website
 
@@ -14,7 +14,7 @@ The platform offers users an immersive browsing experience to explore authentic 
 
 > 🎯 **Purpose:** Hands-on practice in full-stack development using Django ecosystem and modern CSS frameworks.
 
----
+
 
 ## ✨ **Key Features**
 
@@ -27,7 +27,6 @@ The platform offers users an immersive browsing experience to explore authentic 
 | 🧭 **Navigation** | Intuitive navbar with seamless footer integration |
 | ⚡ **Performance** | Optimized static file management in Django |
 
----
 
 ## 🛠️ **Tech Stack**
 
@@ -40,7 +39,7 @@ The platform offers users an immersive browsing experience to explore authentic 
 ### **Database & Tools**
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
----
+
 
 ## 📂 **Project Structure**
 
@@ -101,7 +100,7 @@ python manage.py runserver
 ```
 🔓 **Access:** `http://127.0.0.1:8000/`
 
----
+
 
 ## 🎨 **UI/UX Highlights**
 
@@ -111,7 +110,7 @@ python manage.py runserver
 - **Grid Layouts** – Responsive masonry-style menu presentation
 - **Custom Color Palette** – Warm food-inspired tones
 
----
+
 
 ## 📸 **Screenshots**
 
@@ -121,7 +120,7 @@ python manage.py runserver
 
 > 💡 **Tip:** Add screenshots to `/screenshots/` directory and update paths above
 
----
+
 
 ## 🎯 **Learning Outcomes**
 
@@ -134,7 +133,6 @@ Through this project, I mastered:
 - ✅ **Responsive Design** – Mobile breakpoints and flexbox/grid
 - ✅ **Version Control** – Git workflows and GitHub repository management
 
----
 
 ## 🔮 **Future Roadmap**
 
@@ -146,7 +144,7 @@ Through this project, I mastered:
 | 🔌 **v2.0** | REST API Implementation | ⏳ Planned |
 | ☁️ **v2.1** | Cloud Deployment (AWS/Heroku) | ⏳ Planned |
 
----
+
 
 ## 👨‍💻 **Author**
 
@@ -158,7 +156,7 @@ Through this project, I mastered:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
----
+
 
 ## ⭐ **Support**
 
