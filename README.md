@@ -110,9 +110,9 @@ python manage.py runserver
 
 ## 📸 **Screenshots**
 
-| Homepage | Menu View | Mobile Responsive |
+| Homepage | Menu View | SuperUser Dashboard |
 |----------|-----------|-------------------|
-|*Coming Soon* | *Coming Soon* | *Coming Soon* |
+|![Homepage](core/static/core/images/1.jpeg) | ![Homepage](core/static/core/images/2.jpeg) | ![Homepage](core/static/core/images/4.jpeg) |
 
 > 💡 **Tip:** Add screenshots to `/screenshots/` directory and update paths above
 
