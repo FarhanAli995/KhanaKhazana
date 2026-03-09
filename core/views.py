@@ -1,27 +1,6 @@
 from django.shortcuts import render
-
 from core.models import (
-    Appetizers,
-    Salads,
-    Soups,
-    Pasta,
-    Pizza,
-    Seafood,
-    Steaks,
-    Burgers,
-    Sandwiches,
-    Vegetarian,
-    Vegan,
-    GlutenFree,
-    Desserts,
-    Beverages,
-    Cocktails,
-    Breakfast,
-    Brunch,
-    KidsMenu,
-    Sides,
-    Specials
-)
+    Appetizers,Salads,Soups,Pasta,Pizza,Seafood,Steaks,Burgers,Sandwiches,Vegetarian,Vegan,GlutenFree,Desserts,Beverages,Cocktails,Breakfast,Brunch,KidsMenu,Sides,Specials)
 
 
 # Create your views here.
