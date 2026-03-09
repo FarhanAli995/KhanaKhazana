@@ -112,7 +112,7 @@ python manage.py runserver
 
 | Homepage | Menu View | Mobile Responsive |
 |----------|-----------|-------------------|
-| *Coming Soon* | *Coming Soon* | *Coming Soon* |
+|core/static/core/images/StockCake-Chef_serving_food-1246664-medium.jpg | *Coming Soon* | *Coming Soon* |
 
 > 💡 **Tip:** Add screenshots to `/screenshots/` directory and update paths above
 
