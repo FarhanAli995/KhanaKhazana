@@ -1,5 +1,29 @@
 from django.shortcuts import render
 
+from core.models import (
+    Appetizers,
+    Salads,
+    Soups,
+    Pasta,
+    Pizza,
+    Seafood,
+    Steaks,
+    Burgers,
+    Sandwiches,
+    Vegetarian,
+    Vegan,
+    GlutenFree,
+    Desserts,
+    Beverages,
+    Cocktails,
+    Breakfast,
+    Brunch,
+    KidsMenu,
+    Sides,
+    Specials
+)
+
+
 # Create your views here.
 
 def home(request):
@@ -12,6 +36,33 @@ def home(request):
         {'name': 'Chapli Kebab', 'description': 'Famous Peshawari style kebab made with minced beef and special spices.', 'price': '$11', 'image': 'https://images.unsplash.com/photo-1604908176997-4313d7accb43'}
     ]
     return render(request, 'core/home.html', {"context": context})
+
+
+
+def menu(request):
+    context = {
+        'appetizers': Appetizers.objects.all(),
+        'salads': Salads.objects.all(),
+        'soups': Soups.objects.all(),
+        'pasta': Pasta.objects.all(),
+        'pizza': Pizza.objects.all(),
+        'seafood': Seafood.objects.all(),
+        'steaks': Steaks.objects.all(),
+        'burgers': Burgers.objects.all(),
+        'sandwiches': Sandwiches.objects.all(),
+        'vegetarian': Vegetarian.objects.all(),
+        'vegan': Vegan.objects.all(),
+        'gluten_free': GlutenFree.objects.all(),
+        'desserts': Desserts.objects.all(),
+        'beverages': Beverages.objects.all(),
+        'cocktails': Cocktails.objects.all(),
+        'breakfast': Breakfast.objects.all(),
+        'brunch': Brunch.objects.all(),
+        'kids_menu': KidsMenu.objects.all(),
+        'sides': Sides.objects.all(),
+        'specials': Specials.objects.all(),
+    }
+    return render(request, 'core/menu.html', context)
 
 def about(request):
     return render(request, 'core/about.html')
