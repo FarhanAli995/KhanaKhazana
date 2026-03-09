@@ -114,7 +114,6 @@ python manage.py runserver
 |----------|-----------|-------------------|
 |![Homepage](core/static/core/images/1.jpeg) | ![Homepage](core/static/core/images/2.jpeg) | ![Homepage](core/static/core/images/4.jpeg) |
 
-> 💡 **Tip:** Add screenshots to `/screenshots/` directory and update paths above
 
 
 
